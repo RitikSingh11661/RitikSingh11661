@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ritik</h1>
 <h3 align="center">A MERN developer from India</h3>
 
- <p width="100" align="left">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.
+<p width="100" align="left">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.
 I dream to get recognized globally by something that I can do for my society.</p>
 
 <div align="center">
