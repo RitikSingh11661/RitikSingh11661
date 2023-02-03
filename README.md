@@ -1,4 +1,4 @@
-[![MasterHead](https://masai-course.s3.ap-south-1.amazonaws.com/editor/uploads/2022-11-30/github_readme_bg_241207.png)](https://ritiksingh11661.github.io)
+<img src='https://masai-course.s3.ap-south-1.amazonaws.com/editor/uploads/2022-11-30/github_readme_bg_241207.png'></img>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ritik</h1>
 <h3 align="center">A MERN developer from India</h3>
 
