@@ -1,9 +1,8 @@
 [![MasterHead](https://masai-course.s3.ap-south-1.amazonaws.com/editor/uploads/2022-11-30/github_readme_bg_241207.png)](https://ritiksingh11661.github.io/)
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ritik</h1>
 <h3 align="center">A MERN developer from India</h3>
 
-<p width="100" align="left">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.
+ <p width="100" align="left">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.
 I dream to get recognized globally by something that I can do for my society.</p>
 
 <div align="center">
@@ -14,8 +13,11 @@ I dream to get recognized globally by something that I can do for my society.</p
   </div>
 </div>
 
+<!-- because of below p my readme is not looking good -->
+<!-- <p align="center" margin="5"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritiksingh11661" alt="ritiksingh11661" /></a></p> -->
 <div>
  - 🌱 I’m currently learning **React, Redux**
+
 - 👨‍💻 All of my projects are available at [https://ritiksingh11661.github.io/](https://ritiksingh11661.github.io/)
 
 - 📝 I upload Youtube Videos related to Coding & general topics [https://www.youtube.com/@diffcoder](https://www.youtube.com/@diffcoder)
