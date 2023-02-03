@@ -13,11 +13,8 @@ I dream to get recognized globally by something that I can do for my society.</p
   </div>
 </div>
 
-<!-- because of below p my readme is not looking good -->
-<!-- <p align="center" margin="5"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritiksingh11661" alt="ritiksingh11661" /></a></p> -->
 <div>
  - 🌱 I’m currently learning **React, Redux**
-
 - 👨‍💻 All of my projects are available at [https://ritiksingh11661.github.io/](https://ritiksingh11661.github.io/)
 
 - 📝 I upload Youtube Videos related to Coding & general topics [https://www.youtube.com/@diffcoder](https://www.youtube.com/@diffcoder)
