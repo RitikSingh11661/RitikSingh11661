@@ -15,7 +15,7 @@ I dream to get recognized globally by something that I can do for my society.</p
 
 <div>
 - 🌱 I’m currently learning **React, Redux**
-  
+
 - 👨‍💻 All of my projects are available at [https://ritiksingh11661.github.io/](https://ritiksingh11661.github.io/)
 
 - 📝 I upload Youtube Videos related to Coding & general topics [https://www.youtube.com/@diffcoder](https://www.youtube.com/@diffcoder)
