@@ -29,7 +29,7 @@ I dream to get recognized globally by something that I can do for my society.</p
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ritik-singh-a4547823b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-singh-a4547823b" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/diffcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="diffcoder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@diffcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="diffcoder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
