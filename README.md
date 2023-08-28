@@ -14,7 +14,7 @@ I dream to get recognized globally by something that I can do for my society.</p
 </div>
 
 <div>
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://ritiksingh11661.github.io/](https://ritiksingh11661.github.io/)
 
