@@ -22,7 +22,7 @@ I dream to get recognized globally by something that I can do for my society.</p
 
 - 💬 Ask me about **JavaScript, Html, Css,React, Json-Server, API Integration, Routing,**
 
-- 📫 How to reach me **ritiksingh11661@gmail.com**
+- 📫 How to reach me **ritikofficial11661@gmail.com**
 
 - ⚡ Fun fact **I think I am funny & make smile on everyone face😄**
 
